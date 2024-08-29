@@ -7,12 +7,13 @@ The detected logos and their confidence scores are saved into a CSV file for fur
 Dataset
 
 The dataset used in this project is the FlickrLogos-27 dataset, which consists of 1,080 images containing logos from 27 different classes.  
-Download the flickr logos 27 dataset from http://image.ntua.gr/iva/datasets/flickr_logos/.
+Due to the large size of the dataset, it is not included in this repository. 
+You can download the Flickr Logos 27 dataset from [here](http://image.ntua.gr/iva/datasets/flickr_logos/).
+ 
 
 Dataset Files:
 
 flickr_logos_27_dataset_images/: Contains 1,080 images.
-flickr_logos_27_dataset_distractor_set_urls: List of URLs for distractor images.
 flickr_logos_27_label_map.pbtxt: Label map file mapping class IDs to logo names.
 
 Model
