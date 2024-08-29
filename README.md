@@ -4,6 +4,10 @@ Overview
 This project implements a logo recognition pipeline that scans images from a specified folder and identifies logos using a pre-trained model (an existing logo recognition tool online). 
 The detected logos and their confidence scores are saved into a CSV file for further analysis. This pipeline is designed to handle a large number of images efficiently, with batching support and progress visualization.
 
+Time to Complete the Task
+
+This task was completed in approximately 1 hour and 30 minutes.
+
 Dataset
 
 The dataset used in this project is the FlickrLogos-27 dataset, which consists of 1,080 images containing logos from 27 different classes.  
