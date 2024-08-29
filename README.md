@@ -8,6 +8,19 @@ Time to Complete the Task
 
 This task was completed in approximately 1 hour and 30 minutes.
 
+File Formats Provided
+
+This repository includes both .py and .ipynb files:
+
+Scalable-Logo-Recognition-Pipeline-with-Python_Mohan.py 
+
+Scalable-Logo-Recognition-Pipeline-with-Python_Mohan.ipynb: In Google Colab, you can view the steps and output.
+
+Both files contain identical code, with the .ipynb file offering a more visual and interactive experience.
+
+Output Files
+output_logo_detection_2024.csv: This CSV file includes detection results for the first 10 batches, with each batch containing 20 images, totaling 200 images. It provides details on detected logo classes and their confidence scores.
+
 Dataset
 
 The dataset used in this project is the FlickrLogos-27 dataset, which consists of 1,080 images containing logos from 27 different classes.  
